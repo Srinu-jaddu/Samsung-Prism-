@@ -6,7 +6,7 @@ This repository includes scripts to read and write images, convert images to vid
 
 
 Features
-- Image Read & Write: Function to read an image from a file and display it using matplotlib.
+-Image Read & Write: Function to read an image from a file and display it using matplotlib.
 
 -Image to Video: Convert a single image into a video with specified frame rate and duration.
 
