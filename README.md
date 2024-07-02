@@ -15,6 +15,9 @@ Features
 
 Dependencies
 -Python 3.x
+
 -OpenCV
+
 -matplotlib (for image display)
+
 -numpy
